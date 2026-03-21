@@ -57,7 +57,8 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 **Observation: ( Include your own Table relevant to the Experiment)**
 (Paste your Tabulation)
 <img width="1042" height="745" alt="image" src="https://github.com/user-attachments/assets/f0975eee-a0e0-4b4d-b587-a6a3c5bf1216" />
-<img width="1178" height="1577" alt="image" src="https://github.com/user-attachments/assets/a8f1e0c0-fffc-4223-bad5-82922151d55c" />
+<img width="987" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed32025b-690e-4de1-a5ba-d31132ccaf3c" />
+
 
 **CALCULATIONS:**
 
